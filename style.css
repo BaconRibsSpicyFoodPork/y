@@ -1,0 +1,19 @@
+body{
+    background-color:fuchsia;
+    color: goldenrod;
+}
+
+.heading{
+    width:100%;
+    font-size:22px;
+}
+
+#camera{
+border:2px dashed firebrick;
+width:350px;
+height:300px;
+}
+
+.name_of_object,#result_object_name,#result_object_accuracy{
+    color: wheat;
+}
